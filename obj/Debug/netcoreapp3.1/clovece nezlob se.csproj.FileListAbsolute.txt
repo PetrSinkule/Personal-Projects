@@ -1,0 +1,14 @@
+C:\Programovani1\clovece nezlob se\bin\Debug\netcoreapp3.1\clovece nezlob se.exe
+C:\Programovani1\clovece nezlob se\bin\Debug\netcoreapp3.1\clovece nezlob se.deps.json
+C:\Programovani1\clovece nezlob se\bin\Debug\netcoreapp3.1\clovece nezlob se.runtimeconfig.json
+C:\Programovani1\clovece nezlob se\bin\Debug\netcoreapp3.1\clovece nezlob se.runtimeconfig.dev.json
+C:\Programovani1\clovece nezlob se\bin\Debug\netcoreapp3.1\clovece nezlob se.dll
+C:\Programovani1\clovece nezlob se\bin\Debug\netcoreapp3.1\clovece nezlob se.pdb
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.AssemblyInfoInputs.cache
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.AssemblyInfo.cs
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.csproj.CoreCompileInputs.cache
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.dll
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.pdb
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.genruntimeconfig.cache
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.csproj.AssemblyReference.cache
+C:\Programovani1\clovece nezlob se\obj\Debug\netcoreapp3.1\clovece nezlob se.GeneratedMSBuildEditorConfig.editorconfig
